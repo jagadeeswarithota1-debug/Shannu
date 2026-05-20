@@ -1,2 +1,0 @@
-# Shannu
-Python coding
